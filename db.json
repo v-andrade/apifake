@@ -1,4 +1,5 @@
-[{"id":1,"username":"chernik0","first_name":"Conan","last_name":"Hernik","email":"chernik0@addthis.com","avatar":"https://robohash.org/numquamdictaest.png?size=50x50&set=set1","gender":"Female","job":"Speech Pathologist","company_name":"Yombu"},
+{
+  users: [{"id":1,"username":"chernik0","first_name":"Conan","last_name":"Hernik","email":"chernik0@addthis.com","avatar":"https://robohash.org/numquamdictaest.png?size=50x50&set=set1","gender":"Female","job":"Speech Pathologist","company_name":"Yombu"},
 {"id":2,"username":"sroper1","first_name":"Shana","last_name":"Roper","email":"sroper1@last.fm","avatar":"https://robohash.org/providentverototam.png?size=50x50&set=set1","gender":"Female","job":"Director of Sales","company_name":"Gigabox"},
 {"id":3,"username":"zemeney2","first_name":"Zeke","last_name":"Emeney","email":"zemeney2@webmd.com","avatar":"https://robohash.org/maximeveritatisnatus.png?size=50x50&set=set1","gender":"Male","job":"Internal Auditor","company_name":"Bubblebox"},
 {"id":4,"username":"rtatersale3","first_name":"Raffarty","last_name":"Tatersale","email":"rtatersale3@vimeo.com","avatar":"https://robohash.org/aperiamabet.png?size=50x50&set=set1","gender":"Male","job":"Compensation Analyst","company_name":"Livetube"},
@@ -48,3 +49,4 @@
 {"id":48,"username":"htheyer1b","first_name":"Hamid","last_name":"Theyer","email":"htheyer1b@yale.edu","avatar":"https://robohash.org/architectosuntsit.png?size=50x50&set=set1","gender":"Female","job":"Project Manager","company_name":"Riffpath"},
 {"id":49,"username":"cipsley1c","first_name":"Clareta","last_name":"Ipsley","email":"cipsley1c@hibu.com","avatar":"https://robohash.org/voluptatibusquiaet.png?size=50x50&set=set1","gender":"Female","job":"Automation Specialist I","company_name":"Photobean"},
 {"id":50,"username":"ajenking1d","first_name":"Aundrea","last_name":"Jenking","email":"ajenking1d@amazon.co.jp","avatar":"https://robohash.org/sintdebitisvoluptatem.png?size=50x50&set=set1","gender":"Female","job":"Database Administrator III","company_name":"Kanoodle"}]
+}
